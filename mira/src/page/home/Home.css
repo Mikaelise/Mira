@@ -1,6 +1,5 @@
-
-.page-layout {
-  background-color: green;
+.page-layout{
+  color: white;
 }
 
 .romaji-input-text {
@@ -12,5 +11,18 @@
   border: 1px solid #ccc;
   border-radius: 25px;
   box-sizing: border-box;
+  font-size: 16px;
+}
+
+.button-container {
+  margin-bottom: 25px;
+}
+
+.check-button {
+  border-radius: 25px;
+  background-color: #0a9396;
+  border-width: 0;
+  height: 50px;
+  width: 75px;
   font-size: 16px;
 }

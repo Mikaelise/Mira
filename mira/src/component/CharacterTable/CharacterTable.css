@@ -1,0 +1,6 @@
+.character-container{
+  display: grid;
+  grid-template-columns: repeat(5, 100px);
+  gap: 12px;
+  justify-content: center;
+}
