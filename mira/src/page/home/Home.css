@@ -2,6 +2,11 @@
   color: white;
 }
 
+.jp-text-display {
+  font-size: 25px;
+  margin-bottom: 25px;
+  margin-top: 300px;
+}
 .romaji-input-text {
   width: 60%;
   height: 50px;
@@ -20,9 +25,9 @@
 
 .check-button {
   border-radius: 25px;
-  background-color: #0a9396;
+  background-color: #fff;
   border-width: 0;
-  height: 50px;
   width: 75px;
+  height: 35px;
   font-size: 16px;
 }
